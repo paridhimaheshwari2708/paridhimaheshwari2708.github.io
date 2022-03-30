@@ -1,0 +1,18 @@
+.update-dates {
+    color: #cc0e00;
+    font-size: 15px;
+}
+
+.update-text {
+    font-size: 15px;
+}
+
+pre {
+    white-space: pre-wrap;
+}
+
+.link-simple
+{
+   color:black;
+   text-decoration: none;
+}
